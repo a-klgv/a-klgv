@@ -1,14 +1,14 @@
 <h1 align="center"><b>Hola, I'm Anastasiia</b> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<hr>
+<hr style="height:3px; background-color:#000; border:none;">
 
 <table>
   <tr>
     <td align="left" width="60%" valign="top">
 
-<p style="font-size:14px; line-height:1.4em;">
-I'm a data analyst.<br>
-<em>Experienced financial reporting professional with 10+ years of turning complex data into clear, actionable insights.</em>
+<p style="font-size:16px; font-weight:bold; margin-bottom:4px;">I'm a data analyst.</p>
+<p style="font-size:13px; font-style:italic; margin-top:0;">
+Experienced financial reporting professional with 10+ years of turning complex data into clear, actionable insights.
 </p>
 
 <br>
@@ -26,4 +26,6 @@ I'm a data analyst.<br>
     </td>
   </tr>
 </table>
+
+
 
