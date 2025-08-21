@@ -32,8 +32,7 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 📊 Sales Analytics Dashboard | Interactive dashboard for retail sales analysis | Python, Plotly, Streamlit |
-| 💰 Financial Report Automation | Automated monthly P&L reports generation | Python, Pandas, Excel |
-| 🔍 Customer Segmentation | RFM analysis and clustering model | Python, Scikit-learn, Seaborn |
+| 🚲 Bike Rental Analysis | 2-year rental patterns, weather impact & anomaly detection | Python, Pandas, Seaborn |
+
 
 
