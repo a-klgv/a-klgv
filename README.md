@@ -32,7 +32,7 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🚲 Bike Rental Analysis | 2-year rental patterns, weather impact & anomaly detection | Python, Pandas, Seaborn |
+| 🚲 Bike Rental Analysis | Analysis of bike rental activity, weather and weekday impact & anomaly detection | Python, Pandas, Seaborn |
 
 
 
