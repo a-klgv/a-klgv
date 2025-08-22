@@ -9,7 +9,7 @@
 ### My contacts:
 * 📩 [kollegova.a.a@gmail.com](mailto:kollegova.a.a@gmail.com) 
 * 📲 [Telegram](https://t.me/a_klgv)
-* 👔 [LinkedIn](www.linkedin.com/in/anastasiia-kollegova-865a7521) 
+* 👔 [LinkedIn](https://www.linkedin.com/in/anastasiia-kollegova-865a7521) 
 
 <hr style="border: 3px solid gray; margin: 20px 0;">
 
