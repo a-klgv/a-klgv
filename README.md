@@ -33,7 +33,7 @@
 | Project | Description | Stack |
 |---------|-------------|-------|
 | 🚴 [Bike Rental Analysis](https://github.com/a-klgv/bike-rental-analysis) | Analysis of bike rental activity, weather and weekday impact & anomaly detection | Python, Pandas, Seaborn, Matplotlib |
-| 🚴 [Audio Sales Analysis](https://github.com/a-klgv/audio-sales-analysis) | Analysis of data for a wholesale audio equipment company | Python, Pandas, Seaborn, Matplotlib |
+| 🎧 [Audio Sales Analysis](https://github.com/a-klgv/audio-sales-analysis) | Analysis of data for a wholesale audio equipment company | Python, Pandas, Seaborn, Matplotlib |
 | 🎓 [EdTech Payment A/B Testing](https://github.com/a-klgv/edtech-payment-ab-test) | A/B test evaluation of new payment mechanism on educational platform with statistical significance testing | Python, Pandas, Seaborn, Matplotlib, scipy.stats, tqdm|
 
 
