@@ -40,7 +40,6 @@
 <hr style="border: 3px solid gray; margin: 20px 0;">
 
 ## Professional Courses
-
 * Karpov.Courses "Data analyst"
 * Karpov.Courses "Simulator SQL"
 * Karpov.Courses "Data Visualization and Advanced Tableau"
